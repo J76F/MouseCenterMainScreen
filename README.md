@@ -12,3 +12,6 @@ Save this script in a convenient folder, and create a shortcut in your All Progr
 *Shortcut key:* `Ctrl` + `Alt` + `Shift` + `C`
 
 *Run:* Minimized
+
+## Base from:
+https://superuser.com/questions/384099/is-there-a-win7-shortcut-to-position-mouse-in-center-of-primary-screen
